@@ -87,6 +87,7 @@ I'm an experienced security professional specializing in **Azure Cloud Security*
 | ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square) **AZ-104** | Azure Administrator Associate | ✅ Certified |
 | ![Azure](https://img.shields.io/badge/SC--300-0078D4?style=flat-square) **SC-300** | Identity and Access Administrator Associate | ✅ Certified |
 | ![Azure](https://img.shields.io/badge/AZ--500-0078D4?style=flat-square) **AZ-500** | Azure Security Engineer Associate | ✅ Certified |
+  ![M365](https://img.shields.io/badge/MS--102-0078D4?style=flat-square)  **MS-102** | Microsoft 365 Administrator - Expert  | ✅ Certified |
 
 ### 🔑 CyberArk
 | Certification | Description | Status |

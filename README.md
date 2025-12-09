@@ -42,7 +42,7 @@ I'm an experienced security professional specializing in **Azure Cloud Security*
 
 ### 🐧 Linux & Automation
 ![Red Hat](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL_8/9-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL_8/9/10-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)

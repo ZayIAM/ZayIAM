@@ -1,6 +1,6 @@
 # Hi, I'm Isaiah Herard 👋🏽
 
-## 🎯 IAM Operations Engineer | PAM Specialist | Linux Administrator
+## 🎯 IAM Operations Engineer | CyberArk PAM Specialist | Linux Administrator
 
 I'm an experienced security professional specializing in **Azure Cloud Security**, **CyberArk Privileged Access Management (PAM)**, and **Red Hat Enterprise Linux**. This GitHub showcases my hands-on labs, projects, and technical expertise.
 

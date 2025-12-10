@@ -194,9 +194,7 @@ These technologies work together in enterprise environments:
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayIAM&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayIAM&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZayIAM&theme=github_dark)
 
 ---
 
